@@ -55,10 +55,14 @@ O site apresenta:
 
 ```
 meu-cv/
-├── index.html       # Estrutura HTML da página
-├── style.css        # Estilos, layout e animações
-├── script.js        # Scroll reveal e navegação suave
-└── arthur.png       # Foto de perfil
+├── assets/
+│   └── images/
+│       └── arthur.png       # Foto de perfil
+├── css/
+│   └── style.css            # Estilos, layout e animações
+├── js/
+│   └── script.js            # Scroll reveal e navegação suave
+└── index.html               # Estrutura HTML da página
 ```
 
 ---
@@ -68,7 +72,7 @@ meu-cv/
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Controle de versão:** Git (via terminal integrado do VS Code)
 - **Hospedagem:** GitHub Pages (branch `main`, raiz do repositório)
-- **Navegador de testes:** Google Chrome / DevTools para inspeção e responsividade
+- **Navegador de testes:** Brave Web Browser / DevTools para inspeção e responsividade
 
 ---
 
